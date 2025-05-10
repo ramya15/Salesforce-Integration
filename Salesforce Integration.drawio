@@ -1,9 +1,198 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Postman" id="lqzM8-llP-q8fwTEZbxb">
-    <mxGraphModel dx="786" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2083" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-4" target="KeyFHdR2DlYuNLIbnwnZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-4" value="&lt;b&gt;Login &lt;/b&gt;to Salesforce CRM" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry y="276.5" width="120" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-6" target="KeyFHdR2DlYuNLIbnwnZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-6" value="Goto &lt;b&gt;Setup &lt;/b&gt;page" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=jRkeBu9SUjBn;" vertex="1" parent="1">
+          <mxGeometry x="160" y="276.5" width="120" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1. Setup CORS&lt;/font&gt;&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=3Zke0c17hHNo;align=left;verticalAlign=top;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="240" width="1080" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;2. Create new Workspace &amp;amp; Fork collection&lt;/font&gt;&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=b0kealDiS5aa;align=left;verticalAlign=top;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="399" width="1080" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-24" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=12;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;jumpStyle=arc;startArrow=none;endArrow=block;endFill=1;exitX=1.008;exitY=0.5;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=61keoeMkE3KZ;" edge="1" parent="1" target="KeyFHdR2DlYuNLIbnwnZ-25">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="99.79200000000014" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-26" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=12;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.004;exitY=0.5;exitPerimeter=0;entryX=-0.008;entryY=0.5;entryPerimeter=0;lucidId=W2ke0Xu.zere;" edge="1" parent="1" target="KeyFHdR2DlYuNLIbnwnZ-27">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="324.3960000000002" y="862" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-28" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=12;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=F9kexUZ4-KsP;" edge="1" parent="1" target="KeyFHdR2DlYuNLIbnwnZ-29">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="474.00000000000045" y="861" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-30" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=12;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=O9keyGTC9R7z;" edge="1" parent="1" target="KeyFHdR2DlYuNLIbnwnZ-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="634.0000000000005" y="861" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-32" value="" style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=12;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=89kegDp9CApR;" edge="1" parent="1" target="KeyFHdR2DlYuNLIbnwnZ-33">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="793" y="861" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-38" target="KeyFHdR2DlYuNLIbnwnZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-38" value="Search &lt;b&gt;CORS &lt;/b&gt;in Quick Find" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=jRkeBu9SUjBn;" vertex="1" parent="1">
+          <mxGeometry x="320" y="278.25" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-39" target="KeyFHdR2DlYuNLIbnwnZ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-39" value="Click on &lt;b&gt;New&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;i&gt;Enter &lt;/i&gt;Origin URL Pattern: &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;https://*.postman.com&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Save&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=jRkeBu9SUjBn;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="278.25" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-41" value="Click on &lt;b&gt;New &lt;/b&gt;Again&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;i&gt;Enter &lt;/i&gt;Origin URL Pattern: &lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;b&gt;https://*.postman.co&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Save&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=jRkeBu9SUjBn;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="276.5" width="280" height="83.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-46" target="KeyFHdR2DlYuNLIbnwnZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-46" value="&lt;b&gt;Login &lt;/b&gt;to Postman" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="-1" y="438" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-47" target="KeyFHdR2DlYuNLIbnwnZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-47" value="Create new &lt;b&gt;Workspace&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="160" y="438" width="120" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-48" target="KeyFHdR2DlYuNLIbnwnZ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-48" value="In search bar, &lt;b&gt;search &lt;/b&gt;for &#39;Salesforce API&#39;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="320" y="438" width="120" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-49" target="KeyFHdR2DlYuNLIbnwnZ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-49" value="Click on &lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;...&lt;/font&gt;&lt;/b&gt; next to the API collection of your choice" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="480" y="438" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-50" target="KeyFHdR2DlYuNLIbnwnZ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-50" value="Select &lt;b&gt;Fork&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="639" y="438" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;3. Authorize Org&lt;/font&gt;&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=14;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=b0kealDiS5aa;align=left;verticalAlign=top;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry y="560" width="1080" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-52" target="KeyFHdR2DlYuNLIbnwnZ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-52" value="Enter &lt;b&gt;label &lt;/b&gt;value under Fork label&amp;nbsp;&lt;div&gt;(Ex: &lt;i&gt;SFAPI fork&lt;/i&gt;)&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="800" y="438" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-53" value="Click on &lt;b&gt;Fork Collection&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="959" y="438" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-54" target="KeyFHdR2DlYuNLIbnwnZ-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-54" value="Click on the forked API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-55" target="KeyFHdR2DlYuNLIbnwnZ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-55" value="Click on &lt;b&gt;Authorization Tab&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="160" y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-56" target="KeyFHdR2DlYuNLIbnwnZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-56" value="Click on&amp;nbsp;&lt;span style=&quot;font-weight: bold;&quot;&gt;Get New Access Token&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="320" y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-57" target="KeyFHdR2DlYuNLIbnwnZ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-57" value="You will be redirected to &lt;b&gt;login &lt;/b&gt;to the Salesforce Org" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="480" y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-58" target="KeyFHdR2DlYuNLIbnwnZ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-58" value="On login, click on &lt;b&gt;Allow Access&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="639" y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-59" target="KeyFHdR2DlYuNLIbnwnZ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-59" value="On redirect to Postman, click on &lt;b&gt;Proceed&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="800" y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-61" target="KeyFHdR2DlYuNLIbnwnZ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-61" value="Click on &lt;b&gt;Get New Access Token&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="959" y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-73" target="KeyFHdR2DlYuNLIbnwnZ-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-73" value="&lt;b&gt;Copy &lt;/b&gt;the instance URL&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;&quot;&gt;(Ex:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;https://xyz.salesforce.com)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;align=center;" vertex="1" parent="1">
+          <mxGeometry x="959" y="596" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-74" target="KeyFHdR2DlYuNLIbnwnZ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-74" value="Goto &lt;b&gt;Variables &lt;/b&gt;Tab" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="800" y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-75" target="KeyFHdR2DlYuNLIbnwnZ-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-75" value="Paste the copied instance URL as the current value for&amp;nbsp;&lt;b&gt;_endpoint&lt;/b&gt; variable" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="639" y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-80" target="KeyFHdR2DlYuNLIbnwnZ-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-80" value="Click on &lt;b&gt;Save&amp;nbsp;&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="480" y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-82" target="KeyFHdR2DlYuNLIbnwnZ-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-82" value="&lt;b&gt;Test &lt;/b&gt;the Connection" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-84" value="&lt;h1 style=&quot;margin: 0px; padding: 0px; border: 0px; background: rgb(15, 15, 15); word-break: break-word; font-family: Roboto, Arial, sans-serif; font-size: 2rem; line-height: 2.8rem; overflow: hidden; max-height: 5.6rem; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; text-overflow: ellipsis; color: rgb(241, 241, 241); text-align: start;&quot; class=&quot;style-scope ytd-watch-metadata&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; background: transparent;&quot; class=&quot;style-scope yt-formatted-string&quot; dir=&quot;auto&quot;&gt;Steps to connect Postman to Salesforce Org for API testing&lt;/span&gt;&lt;/h1&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#unset;strokeWidth=NaN;strokeColor=none;lucidId=fX2cqqpkcsMv;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry y="155" width="1080" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KeyFHdR2DlYuNLIbnwnZ-85" target="KeyFHdR2DlYuNLIbnwnZ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-85" value="Goto any API and &lt;b&gt;Run &lt;/b&gt;the Request" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="KeyFHdR2DlYuNLIbnwnZ-86" value="Verify the &lt;b&gt;Response&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
+          <mxGeometry y="720" width="121" height="81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
