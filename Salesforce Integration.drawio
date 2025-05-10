@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
-  <diagram name="Postman" id="lqzM8-llP-q8fwTEZbxb">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3" pages="2">
+  <diagram name="Connect Postman to SF" id="lqzM8-llP-q8fwTEZbxb">
     <mxGraphModel dx="2083" dy="571" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -192,6 +192,64 @@
         </mxCell>
         <mxCell id="KeyFHdR2DlYuNLIbnwnZ-86" value="Verify the &lt;b&gt;Response&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=12;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=0.8;lucidId=6Qke2N9~Xg28;" vertex="1" parent="1">
           <mxGeometry y="720" width="121" height="81" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bZ3n8xxl8C7Xs3gMluRn" name="Streaming API">
+    <mxGraphModel dx="1005" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-1" value="&lt;b&gt;Streaming API&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=QvVcd79I2WSy;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="39" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-2" value="Publisher" style="overflow=block;blockSpacing=1;fontSize=16.7;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=6vVcO9VSoHJR;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-3" value="Send notification from one system to another system.&lt;br&gt;Streaming events are notification messages that pub sends to sub with push technology" style="overflow=block;blockSpacing=1;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=WzVc57k9G-px;labelBackgroundColor=none;fontColor=default;whiteSpace=wrap;html=1;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="531" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-4" value="Subscriber" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=rAVcbdAKoe_.;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-5" value="Sending system" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;align=left;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=IAVcVgV3D9GJ;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-6" value="Receiving system" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;align=left;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=0AVcFoyXbVmW;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-7" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=aBVc4Rr_0Mxz;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="3qYrSY5HMWJF0Sl3YESG-2" target="3qYrSY5HMWJF0Sl3YESG-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-8" value="Products in Streaming API" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;align=left;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=~CVcbGF4BJHi;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-9" value="Legacy" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=TDVcFbjd2AAp;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-10" value="Current" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=1DVcyv8rG5Tq;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-11" value="Generic &amp;amp; Push Topic" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;align=left;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=BR2cAu7T-LXY;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-12" value="Platform Event &amp;amp; CDP" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;align=left;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=fS2c9WhlnI42;labelBackgroundColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-13" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0;image=https://images.lucid.app/images/e63a0ee3-0a9c-4a0c-8466-24743472076b/content;imageAspect=0;lucidId=PT2cIPtJx7Dk;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="75" width="714" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-14" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;font-weight: bold;&quot;&gt;stateful&lt;/span&gt;&lt;span style=&quot;font-size:13.3px;&quot;&gt;: can remember the last request made&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=wU2cxOuveuwA;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="347" width="345" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-15" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13.3px;font-weight: bold;&quot;&gt;stateless&lt;/span&gt;&lt;span style=&quot;font-size:13.3px;&quot;&gt;: dont remember the last request made&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=2U2cKRouupxS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="975" y="347" width="345" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="3qYrSY5HMWJF0Sl3YESG-16" value="Ex: Social Media (Real-time)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;align=left;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=eW2c~hqwDa57;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1335" y="392" width="345" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
